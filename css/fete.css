@@ -1,0 +1,27 @@
+body {
+  background: #FAEBD7;
+  padding: 20px;
+  font-family: Arial;
+}
+
+#banner-message {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+h3{
+  background: #0084ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 15px;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
